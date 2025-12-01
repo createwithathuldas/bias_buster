@@ -9,8 +9,9 @@ Disparate Impact: **0.812 → 0.95 (+17%)**
 Processing Time: **9 mins/blog**
 Throughput Gain: **20x faster (10 blogs/week)**
 ```
+![Thumbnail](logo.jpg)
 
-[![Demo Results](bias_buster_master.png)](bias_buster_master.png)
+[![Demo Results](bias_buster_masterImage.png)](bias_buster_masterImage.png)
 
 ## 🏗️ Technical Pipeline
 ```
