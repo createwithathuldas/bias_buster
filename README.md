@@ -71,16 +71,15 @@ agent_code.py         → Complete agent implementation
 **Expected: 90-95 points → TOP-3 potential**
 
 ## 🛠️ How to Run
-1. Clone this repo: `git clone https://github.com/yourusername/bias-buster-concierge`
+1. Clone this repo: `git clone https://github.com/yourusername/bias-buster`
 2. Open `bias_buster.ipynb` in Kaggle
 3. Add Kaggle Secret: `GOOGLE_API_KEY` (get from Google AI Studio)
 4. Run all cells → See bias detection + blog generation
 5. Download generated PNG files + blog post
 
 ## 📚 Resources
-- [Kaggle Notebook (Live)](https://www.kaggle.com/code/yourusername/bias-buster)
+- [Kaggle Notebook (Live)](https://www.kaggle.com/code/athuldas2025/notebooke28b739ada)
 - [Demo Video (2 mins)](https://youtube.com/your-video)
-- [AIF360 Documentation](https://aif360.readthedocs.io/)
 - [Google ADK Docs](https://github.com/google/genai)
 
 ---
