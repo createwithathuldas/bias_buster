@@ -72,7 +72,7 @@ agent_code.py         → Complete agent implementation
 **Expected: 90-95 points → TOP-3 potential**
 
 ## 🛠️ How to Run
-1. Clone this repo: `git clone https://github.com/yourusername/bias-buster`
+1. Clone this repo: `git clone https://github.com/createwithathuldas/bias-buster`
 2. Open `bias_buster.ipynb` in Kaggle
 3. Add Kaggle Secret: `GOOGLE_API_KEY` (get from Google AI Studio)
 4. Run all cells → See bias detection + blog generation
